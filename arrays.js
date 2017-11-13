@@ -1,8 +1,6 @@
 var chocolateBars = [
-  'bread',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
-  'tomato',
-  'garlic'
+  'snickers',
+  'hundred grand',
+  'kit kitkat',
+  'skittles',
 ]
